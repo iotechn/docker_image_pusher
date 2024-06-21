@@ -1,5 +1,9 @@
-calico/kube-controllers:v3.23.5
-calico/node:v3.23.5
+easzlab/pause:3.9
+easzlab/metrics-server:v0.5.2
+kubernetesui/metrics-scraper:v1.0.8
+kubernetesui/dashboard:v2.7.0
+easzlab/k8s-dns-node-cache:1.22.13
+coredns/coredns:1.9.3
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
