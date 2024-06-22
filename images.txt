@@ -1,4 +1,4 @@
-metrics-scraper:v1.0.8
+rancher/local-path-provisioner:v0.0.23
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
