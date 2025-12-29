@@ -1,1 +1,1 @@
-ubuntu:24.04
+dataease/sqlbot:v1.4.0
