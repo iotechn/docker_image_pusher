@@ -1,1 +1,1 @@
-onerahmet/openai-whisper-asr-webservice:v1.19.1
+onerahmet/openai-whisper-asr-webservice:v1.9.1
