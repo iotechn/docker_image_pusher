@@ -1,1 +1,1 @@
-onerahmet/openai-whisper-asr-webservice:v1.9.1
+ubuntu:22.04
