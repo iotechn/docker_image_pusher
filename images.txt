@@ -1,1 +1,1 @@
-ubuntu:22.04
+redis:8.0
