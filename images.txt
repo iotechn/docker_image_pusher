@@ -1,1 +1,1 @@
-eyeix/meilisearch-ui:latest
+debian:bookworm-slim
